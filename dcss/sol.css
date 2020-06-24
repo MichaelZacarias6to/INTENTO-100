@@ -1,10 +1,22 @@
+
 body {
 	color: Yellow;
 
+
 }
+
 p{
-	color: #77bb99;
-	font-family: verdana;
+	color: Blue;
 	font-size: 20px;
-	
+	font-style: normal;
+}
+hr {
+ height: 10px;
+  background-color: Green;
+ border: 0; 
+ border-top:
+  1px solid #999; 
+  border-bottom: 1px
+   solid #333; 
+   height:0;
 }
