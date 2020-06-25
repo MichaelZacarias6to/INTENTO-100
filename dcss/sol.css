@@ -4,6 +4,23 @@ body {
 
 
 }
+u{
+		color: Green;
+	font-size: 20px;
+	font-style: Arial;
+
+
+}
+b{
+		color: Orange;
+	font-size: 20px;
+	font-style: Calibri;
+}
+i{
+		color: Pink;
+	font-size: 20px;
+	font-style: Castellar;
+}
 
 p{
 	color: Blue;
